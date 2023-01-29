@@ -24,7 +24,22 @@ The application is built using the following technologies:
 
 Here's how you can get started with the application in a few easy steps:
 
-- 1.Clone the repository
+1. Clone the repository
+```
+git clone https://github.com/paritbhardwaj019/reacttodo.git
+```
+2. Change into the project directory
+```
+cd reacttodo
+```
+3. Install the dependencies
+```
+npm install
+```
+4. Start the development server
+```
+npm run dev
+```
 
 ## License
 
