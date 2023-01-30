@@ -1,6 +1,6 @@
 https://user-images.githubusercontent.com/111231393/215320648-c844de9d-39fa-471b-98d8-42a86ec0efe1.mp4
 
-# TODO Application using React
+<h1 align="center">TODO Application using React</h1>
 
 A simple TODO application built using React, which allows you to keep track of your tasks in an organized way. The application provides an intuitive user interface to add, edit and delete tasks with ease.
 
